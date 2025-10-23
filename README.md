@@ -46,7 +46,7 @@ A machine for analyzing, segmenting, tagging, and time-stamping any Quranic cont
 
 ### MODMAJ (مُدمج) - The Unified Database
 
-The unified database that connects all dimensions and layers of Quranic data in a standardized way. This includes Qira'at (readings) and Riwayat (narrations) across the different levels and dimensions of Quranic data: written, pronounced, and recited.
+The unified database that connects all dimensions and layers of Quranic data in a standardized way. This includes Qira'at and Riwayat (narrations) across the different levels and dimensions of Quranic data: written, pronounced, and recited.
 
 ### NASEEJ (نسيج) - The Data Language
 
