@@ -27,9 +27,11 @@ The LUBB project provides a unified, open, and extensible "reactor-like core sys
 
 The ecosystem is comprised of several specialized, integrated applications that each handle a critical part of the data lifecycle. All applications and products are built to integrate with LUBB as the central core.
 
-### LUBB (لب) - The Core
+### LUBB (لب) - The Core Orchestrator
 
-The deep technology for storing, processing, linking, structuring, and exporting Quranic data in a real-time, unified manner, compliant with Quranic and technical standards.
+The deep technology and orchestrator engine for storing, processing, linking, structuring, and exporting Quranic data in a real-time, unified manner.
+
+After data is ingested by MUNAJAM and validated by MARQOOM, the LUBB orchestrator handles the complex backend tasks of initializing reference frames, running data processing units, and generating the mappings and indices that create the interconnected layers within MODMAJ. It is compliant with Quranic and technical standards.
 
 ### MARQOOM (مرقوم) - The Standard
 
@@ -38,7 +40,8 @@ The unified system of technical and Quranic standards that acts as a machine to 
 
 ### MUNAJAM (منجَّم) - The Ingestor
 
-An analysis machine for segmenting and tagging audio and written Quranic data. It inputs this data into LUBB, links and tags it according to the standards defined in MARQOOM, and passes it all to the unified database.
+A machine for analyzing, segmenting, tagging, and time-stamping any Quranic content (especially text and audio). It performs ETL processes, inputs the data into LUBB, links and tags it according to the standards defined in MARQOOM, and passes it all to the unified database.
+* **Repo:** [https://github.com/Itqan-community/Munajjam.git](https://github.com/Itqan-community/Munajjam.git)
 
 ### MODMAJ (مُدمج) - The Unified Database
 
@@ -48,9 +51,12 @@ The unified database that connects all dimensions and layers of Quranic data in 
 
 The unified standard technical data language for exchanging informational outputs between LUBB technologies and the family of applications built on the same ecosystem. This covers the entire lifecycle, from the initial creation of Quranic resources and their preparation for developers, all the way to their delivery to the end-user.
 
-### JAMIEE (جامع) - The Processor
+### JAMIEE (جامع) - The Publisher Gateway & CMS
 
-The data processing and indexing engine. After data is ingested by MUNAJAM and validated by MARQOOM, JAMIEE handles the complex backend tasks of initializing reference frames, running data processing units, and generating the mappings and indices that create the interconnected layers within MODMAJ.
+The asset store and Content Management System (CMS) that acts as the publisher's integration gateway. It allows publishers to:
+* Manually edit resources and assets data on a granular level.
+* Build their own websites to address their resources within the ecosystem.
+* Interact with the community, preview usage statistics, and handle content operations (including managing their teams) through the JAMIEE CMS.
 
 ### RAQIEB (رقيب) - The Guardian
 
@@ -62,12 +68,13 @@ The community and digital rights management system. RAQIEB manages community-gen
 
 All products and applications in this family are designed to work together, with **LUBB** as the central integration point.
 
-1.  **MUNAJAM** ingests raw data (e.g., CSVs, audio files, text) from various publishers.
+1.  **MUNAJAM** ingests raw data (e.g., text, audio, CSVs) from various publishers.
 2.  **MARQOOM** validates this data against the unified standards.
-3.  **JAMIEE** processes, maps, and indexes the validated data.
-4.  **LUBB** orchestrates this data, which is stored in **MODMAJ**, the unified database.
-5.  **RAQIEB** manages all community contributions and associated digital rights for content entering the ecosystem.
-6.  **NASEEJ** provides the standard data language for external applications, developers, and other community projects to consume this unified data.
+3.  The **LUBB** orchestrator processes, maps, and indexes the validated data.
+4.  The resulting data is stored in **MODMAJ**, the unified database.
+5.  **RAQIEB** manages all community contributions and associated digital rights.
+6.  **JAMIEE** provides the CMS and gateway for publishers to manage their content, view analytics, and integrate with the ecosystem.
+7.  **NASEEJ** provides the standard data language for external applications, developers, and other community projects to consume this unified data.
 
 ---
 
@@ -75,6 +82,6 @@ All products and applications in this family are designed to work together, with
 
 You can find demo videos of the early version of the LUBB core on Google Drive.
 
-* **Demo 1:** [Link to Part 1 on Google Drive]
-* **Demo 2:** [Link to Part 2 on Google Drive]
+* **Demo part 1:** https://drive.google.com/file/d/1EKb-QPKtETU5VlEkw-aOlCBdqekIPFVf/view?usp=drive_link
+* **Demo part 2:** https://drive.google.com/file/d/1K6-YJM1NVFv4P-vHNFKSu80Sw4k3327u/view?usp=drive_link
 * **Demo 3:** Upcoming
