@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="#lubb-products-range-and-application-suite">Products Range</a> •
+  <a href="#documentation">Documentation</a> •
   <a href="#ecosystem-integration-flow">Integration Flow</a> •
   <a href="#lubb-core-demos">Demos</a>
 </p>
@@ -61,6 +62,12 @@ The asset store and Content Management System (CMS) that acts as the publisher's
 ### RAQIEB (رقيب) - The Guardian
 
 The community and digital rights management system. RAQIEB manages community-generated content, copyrights, and digital asset licenses (e.g., ITQAN IP License, MIT/GPL). It is designed to create a "Chain of Rights" that is blockchain-ready to ensure transparency and proper attribution for all contributions.
+
+---
+
+## Documentation
+
+* [Documentation Study of the Quranic Data Layers](https://docs.google.com/spreadsheets/d/18TqUEgNEleLf3FL1W472qaWYQiwfmAl3zZk1XcJJa24/edit?usp=drive_link)
 
 ---
 
