@@ -1,5 +1,5 @@
 <pre>
-  لب: آلة تقنية عميقة تنتج مادة قرآن على شكل نسيج منجّم مدُمج مرقوم
+  لب: هو آلة تِقنية عميقة تنتج مادة القرآن على شكل نسيج منجّم مدُمج مرقوم مدقق المصدر ومرخص من قبل رقيب معتمد وهو مجتمع إتقان.
 </pre>
 
 <pre>
@@ -48,7 +48,7 @@ The unified system of technical and Quranic standards that acts as a machine to 
 A machine for analyzing, segmenting, tagging, and time-stamping any Quranic content (especially text and audio). It performs ETL processes, inputs the data into LUBB, links and tags it according to the standards defined in MARQOOM, and passes it all to the unified database.
 * **Repo:** [https://github.com/Itqan-community/Munajjam.git](https://github.com/Itqan-community/Munajjam.git)
 
-### MODMAJ (مُدمج) - The Unified Database
+### MUDMAJ (مُدمج) - The Unified Database
 
 The unified database that connects all dimensions and layers of Quranic data in a standardized way. This includes Qira'at and Riwayat (narrations) across the different levels and dimensions of Quranic data: written, pronounced, and recited.
 
