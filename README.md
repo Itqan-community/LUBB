@@ -95,4 +95,7 @@ You can find demo videos of the early version of the LUBB core on Google Drive.
 
 * [**Demo part 1**](https://drive.google.com/file/d/1EKb-QPKtETU5VlEkw-aOlCBdqekIPFVf/view?usp=drive_link)
 * [**Demo part 2**](https://drive.google.com/file/d/1K6-YJM1NVFv4P-vHNFKSu80Sw4k3327u/view?usp=drive_link)
-* **Demo 3:** Upcoming
+* [**Demo part 3**](https://drive.google.com/file/d/1X9tZ3HFaTCvXVyfk9rf1bHd6bZmDdR2D/view?usp=sharing)
+* [**Demo part 4**](https://drive.google.com/file/d/1Pz0vfK4JYgkKgObMchu_C8xQQIpt_McF/view?usp=drive_link)
+* [**Demo part 5**](https://drive.google.com/file/d/1Ky_uvgsWdInl7Vzm_W7Ebn6H9GBxjO2L/view?usp=drive_link)
+* **Demo 3:** 
