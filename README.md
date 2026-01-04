@@ -93,9 +93,9 @@ All products and applications in this family are designed to work together, with
 
 You can find demo videos of the early version of the LUBB core on Google Drive.
 
-* [**Demo part 1**](https://drive.google.com/file/d/1EKb-QPKtETU5VlEkw-aOlCBdqekIPFVf/view?usp=drive_link)
-* [**Demo part 2**](https://drive.google.com/file/d/1K6-YJM1NVFv4P-vHNFKSu80Sw4k3327u/view?usp=drive_link)
-* [**Demo part 3**](https://drive.google.com/file/d/1X9tZ3HFaTCvXVyfk9rf1bHd6bZmDdR2D/view?usp=sharing)
-* [**Demo part 4**](https://drive.google.com/file/d/1Pz0vfK4JYgkKgObMchu_C8xQQIpt_McF/view?usp=drive_link)
-* [**Demo part 5**](https://drive.google.com/file/d/1Ky_uvgsWdInl7Vzm_W7Ebn6H9GBxjO2L/view?usp=drive_link)
-* [**Demo_part 6**](https://drive.google.com/file/d/1eBzEGbcgSDNkLzgB6f5o4lZJ2aM2vMqm/view?usp=sharing))
+* [**Demo part 1**](https://drive.google.com/file/d/1hwXCKfWG7Ezap8Zt0TfhRllIOZmd0CTd/view?usp=drive_link)
+* [**Demo part 2**](https://drive.google.com/file/d/1sjM7qK2CV7BoaWa9B13E9yDpbbofEZEI/view?usp=drive_link)
+* [**Demo part 3**](https://drive.google.com/file/d/1oPv1JvL9_PthSMnbw7YXii28xlNzHT3C/view?usp=drive_link)
+* [**Demo part 4**](https://drive.google.com/file/d/1leQT5g5JxkP08w0XtkQ0X7GTrbBUPf_5/view?usp=drive_link)
+* [**Demo part 5**](https://drive.google.com/file/d/1vVmY5N5qs_rZGzxsyZnQDsncOgrN-FlP/view?usp=drive_link)
+* [**Demo_part 6**](https://drive.google.com/file/d/1qmnZsuGkzrynOVnHqH5YfxrJAWihN6dz/view?usp=drive_link)
