@@ -71,7 +71,7 @@ The community and digital rights management system. RAQIEB manages community-gen
 
 ## Documentation
 
-* [Documentation Study of the Quranic Data Layers](https://docs.google.com/spreadsheets/d/18TqUEgNEleLf3FL1W472qaWYQiwfmAl3zZk1XcJJa24/edit?usp=drive_link)
+* [Documentation Study of the Quranic Data Layers](https://docs.google.com/spreadsheets/d/1dG2dVAT6gT0ZAaEQMHJ67eqS4cu8kdil/edit?usp=sharing&ouid=102994138952561997115&rtpof=true&sd=true)
 
 ---
 
